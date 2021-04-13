@@ -7,11 +7,7 @@
 <img src="https://img.shields.io/github/license/BlueskyClouds/My-Actions?color=ff69b4">
 <img src="https://img.shields.io/github/languages/code-size/BlueskyClouds/My-Actions?color=blueviolet">
 </div>
-=
-Welcome to kenzo's  git source of packages
--
-[kenzo  常用插件](https://github.com/kenzok8/small-package)
-==================================================
+
 
 #### openwrt-packages
 
