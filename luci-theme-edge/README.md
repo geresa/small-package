@@ -1,4 +1,4 @@
-# luci-theme-edge ([中文](/README_ZH.md))
+# luci-theme-edge
 
 [1]: https://img.shields.io/badge/license-MIT-brightgreen.svg
 [2]: /LICENSE
@@ -14,10 +14,13 @@
 [![Issue Welcome][5]][6]
 [![Contact Me][10]][11]
 
-
+<a href="https://t.me/opwrts" target="_blank">Telegram</a>
 
 A new Luci theme for LEDE/OpenWRT  
-Edge is a clean HTML5 theme for LuCI. It is based on luci-theme-argon Template   
+Edge is a clean HTML5 theme for LuCI. It is based on luci-theme-argon Template  
+
+Master branch adapt to official mainline snapshot.
+Luci 18.06: https://github.com/garypang13/luci-theme-edge/tree/18.06
 
 ## Thanks to 
 luci-theme-argon: https://github.com/jerrykuku/luci-theme-argon
