@@ -17,7 +17,7 @@
 
 *  19.07版luci请使用19.07分支
 
-*  关于指定19.07分支下载
+*  关于指定19.07分支下载示例
 
 ```bash
  git clone -b 19.07 https://github.com/kenzok8/small-package
