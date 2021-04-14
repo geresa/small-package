@@ -1,6 +1,6 @@
 ![BlueskyClouds’s github stats](https://github-readme-stats.vercel.app/api?username=BlueskyClouds&show_icons=true&theme=merko)
 <div align="center">
-<h1 align="center">small-package</h1>
+<h1 align="center">small_action</h1>
 <img src="https://img.shields.io/github/issues/BlueskyClouds/My-Actions?color=green">
 <img src="https://img.shields.io/github/stars/BlueskyClouds/My-Actions?color=yellow">
 <img src="https://img.shields.io/github/forks/BlueskyClouds/My-Actions?color=orange">
@@ -9,7 +9,7 @@
 </div>
 
 
-#### small-package
+#### openwrt-packages
 
 *  常用OpenWrt软件包源码合集，同步上游更新！
 
@@ -43,5 +43,6 @@
 ```bash
 git clone https://github.com/kenzok8/small-package package/small-package
 ```
+
 
 
