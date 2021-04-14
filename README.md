@@ -13,9 +13,15 @@
 
 *  常用OpenWrt软件包源码合集，同步上游更新！
 
-*  18.06版luci请使用packages分支
+*  18.06版luci请使用18.06分支
 
-*  19.07版luci请使用packages-19.07分支
+*  19.07版luci请使用19.07分支
+
+*  关于指定19.07分支下载
+
+```bash
+ git clone -b 19.07 https://github.com/kenzok8/small-package
+```
 
 *  lean源码用18.06分支
 
