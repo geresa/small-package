@@ -42,7 +42,7 @@
 2. 或者添加下面代码到feeds.conf.default文件
 
 ```bash
- src-git openwrt-packages https://github.com/kenzok8/small-package
+ src-git small8 https://github.com/kenzok8/small-package
 ```
 3. lede/下运行 或者openwrt/下运行
 
