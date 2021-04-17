@@ -1,15 +1,15 @@
-![kenzo’s github stats](https://github-readme-stats.vercel.app/api?username=kenzo&show_icons=true&theme=merko)
+![kenzo github stats](https://github-readme-stats.vercel.app/api?username=kenzo&show_icons=true&theme=merko)
 <div align="center">
 <h1 align="center">small_action</h1>
-<img src="https://img.shields.io/github/issues/BlueskyClouds/My-Actions?color=green">
-<img src="https://img.shields.io/github/stars/BlueskyClouds/My-Actions?color=yellow">
-<img src="https://img.shields.io/github/forks/BlueskyClouds/My-Actions?color=orange">
-<img src="https://img.shields.io/github/license/BlueskyClouds/My-Actions?color=ff69b4">
-<img src="https://img.shields.io/github/languages/code-size/BlueskyClouds/My-Actions?color=blueviolet">
+<img src="https://img.shields.io/github/issues/kenzok8/small_action?color=green">
+<img src="https://img.shields.io/github/stars/kenzok8/small_action?color=yellow">
+<img src="https://img.shields.io/github/forks/kenzok8/small_action?color=orange">
+<img src="https://img.shields.io/github/license/kenzok8/small_action?color=ff69b4">
+<img src="https://img.shields.io/github/languages/code-size/kenzok8/small_action?color=blueviolet">
 </div>
 
 
-#### small-package
+#### small_action
 
 *  常用OpenWrt软件包源码合集，同步上游更新！
 
@@ -49,6 +49,8 @@
 ```bash
 git clone https://github.com/kenzok8/small-package package/small-package
 ```
+
+
 
 
 
